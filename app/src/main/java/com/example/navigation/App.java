@@ -44,6 +44,8 @@ public class App extends Application {
 
         presenter=new MainPresenter();
 
+
+
 //        cicerone=Cicerone.create();
 
     }
